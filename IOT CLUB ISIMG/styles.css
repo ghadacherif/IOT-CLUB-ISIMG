@@ -1,0 +1,159 @@
+#table{
+    background-color: #5D6290;
+    border-radius: 40px;
+    margin: 50px;
+}
+#h1{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+body{
+    background-color: #353B74;
+}
+#img1{
+    margin-left: 630px;
+}
+.font{
+    color: white;
+    padding: 1rem;
+}
+#parag2{
+    text-align: center;
+    margin-left: 40px;
+}
+#sous{
+    color: white;
+    text-align: center;
+}
+#tab{
+    text-align: center;
+    margin-left: 400px;
+}
+#our{
+    font-family: 'Times New Roman', Times, serif;
+}
+#iot{
+    left: 30px;
+}
+#port{
+    height: 35px;
+    width: 90px;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+#lets{
+    height: 35px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: #EBAC06;
+    color: white;
+    
+}
+#angular{
+    margin-left: 400px;
+}
+#ai{
+    margin-left: 100px;
+}
+#spboot{
+    margin-left: 100px;
+}
+.titre{
+    color: white;
+}
+#ang{
+    margin-left: 435px;
+    margin-top: 15px;
+}
+#AI{
+    margin-top: 30px;
+    margin-left: 175px;
+}
+#sp{
+    margin-left: 135px;
+    margin-top: 3px;
+}
+#team{
+    margin-left: 400px;
+}
+#rabie{
+    height: 190px;
+    width: 225px;
+    margin-right: 20px;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+#p1{
+    margin-left: 15px;
+}
+#h6{
+    margin-left: 15px;
+}
+#chams{
+    height: 190px;
+    width: 225px;
+    margin-right: 20px;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+#cherif{
+    height: 190px;
+    width: 225px;
+    margin-right: 20px;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+#hadil{
+    height: 190px;
+    width: 225px;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+#khouloud{
+    height: 190px;
+    width: 225px;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+#rania{
+    height: 190px;
+    width: 225px;
+    margin-top: 15px;
+    padding-left: 15px;
+}
+#chef{
+    margin-left: 90px;
+}
+#aaaa{
+    margin-left: 60px;
+}
+#div1{
+    background-color:  #5D6290;
+    border-radius: 9%;
+    height: 320px;
+    color: white;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+#div2{
+    background-color:  #5D6290;
+    border-radius: 9%;
+    height: 320px;
+    color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+/* #div3{
+    background-color:  rgb(63, 88, 122);
+    border-radius: 9%;
+    height: 240px;
+    border-width: 30px;
+    margin-right: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    right: 30px;
+} */
